@@ -1,0 +1,5 @@
+{
+  "name": "Photosynthesis Virtual Lab",
+  "description": "An interactive 3D simulation of the Light Reaction and Calvin Cycle for botany students.",
+  "requestFramePermissions": []
+}
